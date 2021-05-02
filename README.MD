@@ -36,3 +36,5 @@ In the `execute` folder, we have two files: `scrapy.py` and `download.py`.
 The file `scrapy.py` we executed scrapping in the site `https://www.flickr.com` how an example.
 
 In the file `download.py` we download the files hosted in the urls in `url.csv`, created earlier.
+
+We have others folders too: `chromedriver_linux64` and `downloaded_files`: the first have the driver used by scrapping process, and the second we have the files after download.
