@@ -4,7 +4,7 @@ This project is about scraping websites in search by urls for download files.
 
 This project use python version 3 and Selenium.
 
-## Instructions
+## Instructions:
 1. Install virtual env
 ```bash
 $ pip install virtualenv
@@ -29,3 +29,10 @@ $ pip install -r requirements.txt
 ```bash
 $ deactivate
 ```
+
+## How to use:
+In the `execute` folder, we have two files: `scrapy.py` and `download.py`.
+
+The file `scrapy.py` we executed scrapping in the site `https://www.flickr.com` how an example.
+
+In the file `download.py` we download the files hosted in the urls in `url.csv`, created earlier.
