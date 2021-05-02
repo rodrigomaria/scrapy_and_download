@@ -2,7 +2,7 @@
 
 This project is about scraping websites in search by urls for download files.
 
-This project use python version 3 and Selenium.
+This project use python version 3 and Selenium, and created in Linux operational system.
 
 ## Instructions:
 1. Install virtual env
